@@ -1,0 +1,5 @@
+h1. mad lips forms
+
+Inspired by the Luke Wroblewski's article "&quot;Mad Libs&quot; Style Form Increases Conversion 25-40%":http://lukew.com/ff/entry.asp?1007 I decided to see how to implement the original form of mad lips with the labels below the input fields in HTML and CSS.
+
+This is a proof of concept right now and will be updated in the future in regard of cross browser support and documentation.
